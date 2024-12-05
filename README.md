@@ -7,9 +7,7 @@ This repository serves as a template for implementing GitFlow in your projects. 
 - `main`: Production environment
 - `develop`: Continuous integration
 - `feature/feature-name`: Implementation of new features
-- `hotfix/hotfix-name`: Bug fixes
-- `doc`: System documentation
-- `doc/doc-name`: Feature-specific documentation (merges only with `doc`)
+- `fix/fix-name`: Bug fixes
 
 Use this template to kickstart your projects with an organized version control strategy that enhances collaboration, maintains code quality, and supports efficient development cycles.
 
